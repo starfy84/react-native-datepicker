@@ -53,6 +53,7 @@ suppress_comment=\\(.\\|\n\\)*\\$FlowFixedInNextDeploy
 <<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
+<<<<<<< ours
 ^0.35.0
 =======
 ^0.56.0
@@ -62,4 +63,7 @@ suppress_comment=\\(.\\|\n\\)*\\$FlowFixedInNextDeploy
 >>>>>>> theirs
 =======
 ^0.63.0
+>>>>>>> theirs
+=======
+^0.65.0
 >>>>>>> theirs
