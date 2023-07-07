@@ -49,9 +49,8 @@ suppress_comment=\\(.\\|\n\\)*\\$FlowIssue\\((\\(>=0\\.\\(5[0-7]\\|[1-4][0-9]\\|
 >>>>>>> theirs
 suppress_comment=\\(.\\|\n\\)*\\$FlowFixedInNextDeploy
 
-unsafe.enable_getters_and_setters=true
-
 [version]
+<<<<<<< ours
 <<<<<<< ours
 <<<<<<< ours
 ^0.35.0
@@ -60,4 +59,7 @@ unsafe.enable_getters_and_setters=true
 >>>>>>> theirs
 =======
 ^0.57.0
+>>>>>>> theirs
+=======
+^0.63.0
 >>>>>>> theirs
